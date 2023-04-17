@@ -1,0 +1,25 @@
+secciones:
+	Encabezado:
+
+	Bienvenida:
+
+	Libros favoritos:
+		Coraline y la camara secreta
+		El libro del Troll
+
+	peliculas favoritas:
+		Coraline y la puerta secreta
+		El cadaver de la novia
+		Dr.Strange en el multiverso de la locura
+
+	series de television favoritas:
+		Hora de aventura
+
+	musica favorita:
+		BTS
+		Billie Eilish
+		Robleis
+
+	juegos favoritos:
+		
+		
